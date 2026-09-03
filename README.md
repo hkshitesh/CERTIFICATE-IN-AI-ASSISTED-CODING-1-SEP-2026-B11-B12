@@ -8,10 +8,10 @@ source .venv/bin/activate
 ## Important Git Commands
 git init
 
-git add .
-
 git config --global user.name "Your Name"
 
 git config --global user.email "your.email@example.com"
+
+git add .
 
 git commit -m "final project"
